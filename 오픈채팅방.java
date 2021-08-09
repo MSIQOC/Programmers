@@ -1,3 +1,7 @@
+//
+//  Created by MinSeo on 2021/08/09.
+//  Copyright ⓒ 2021 MinSeo Shin. All rights reserved.
+//
 import java.util.*;
 class Solution {
     public String[] solution(String[] record) {
